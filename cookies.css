@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  color: #ff6666;
+  text-shadow: 3px 5px #ffe6e6;
+  font-size: 90px;
+  text-align: center;
+}
+
+p {
+  font-family: "Quicksand";
+  color: white;
+  text-shadow: 1px 1px gray;
+  font-weight: bolder;
+  font-size: 28px;
+}
+
+#buttons {
+  width: 275px;
+  text-align: center;
+  margin: auto;
+  display: inline-block;
+
+}
+
+#buttons img {
+  width: 250px;
+}

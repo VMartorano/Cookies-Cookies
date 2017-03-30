@@ -6,7 +6,9 @@ h1 {
   font-family: "Pacifico", cursive;
   color: #ff6666;
   text-shadow: 3px 5px #ffe6e6;
-  font-size: 90px;
+  font-size: 110px;
+  margin-top: -5px;
+  margin-bottom: auto;
   text-align: center;
 }
 
@@ -19,13 +21,40 @@ p {
 }
 
 #buttons {
-  width: 275px;
   text-align: center;
-  margin: auto;
+  margin: auto auto;
   display: inline-block;
-
 }
 
 #buttons img {
   width: 250px;
+}
+
+.sugar {
+  width: 350px;
+  display: inline-block;
+  text-align: center;
+}
+
+.chocolate {
+  width: 350px;
+  display: inline-block;
+  text-align: center;
+}
+
+.lemon {
+  width: 350px;
+  display: inline-block;
+  text-align: center;
+}
+
+#tCount {
+  background-color: #ff6666;
+  text-align: center;
+  margin-top: -5px;
+}
+
+.cookie-name {
+  font-size: 34px;
+  font-weight: bolder;
 }
